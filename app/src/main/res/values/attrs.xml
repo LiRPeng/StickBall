@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="BallColor" format="color" />
+    <attr name="TextColor" format="color" />
+    <attr name="radius" format="dimension" />
+    <attr name="TextSize" format="dimension" />
+    <attr name="text" format="string" />
+    <declare-styleable name="StickBallView">
+        <attr name="BallColor" />
+        <attr name="TextColor" />
+        <attr name="radius" />
+        <attr name="TextSize" />
+        <attr name="text" />
+    </declare-styleable>
+</resources>
